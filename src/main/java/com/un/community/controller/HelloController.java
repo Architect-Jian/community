@@ -1,4 +1,4 @@
-package com.un.architect.community.controller;
+package com.un.community.controller;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;

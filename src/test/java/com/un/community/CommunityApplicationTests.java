@@ -1,4 +1,4 @@
-package com.un.architect.community;
+package com.un.community;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
